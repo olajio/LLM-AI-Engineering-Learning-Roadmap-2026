@@ -42,18 +42,12 @@ A comprehensive learning plan for mastering LLM engineering, MLOps, and AWS Mach
 - Engage with DataTalks.Club community on Slack
 - Consider Data Engineering Associate cert as complementary skill
 
-## Resource Links
-
-- **DataTalks.Club Community**: [Join Slack](https://datatalks.club/slack.html)
-- **DataTalks.Club GitHub**: [https://github.com/DataTalksClub](https://github.com/DataTalksClub)
-- **Community Events**: [lu.ma/dtc-events](http://lu.ma/dtc-events)
-- **YouTube Channel**: [@DataTalksClub](https://www.youtube.com/@DataTalksClub)
 
 ## Notes
 
 - **Practice Exam Strategy**: For AWS certifications, take practice exams first to identify knowledge gaps and guide focused study
 - **Certification Priority**: ML Engineer Associate → ML Specialty → Data Engineer Associate (as time permits)
-- **Community Engagement**: Actively participate in DataTalks.Club Slack for networking and learning opportunities
+- **Community Engagement**: Actively find and participate in local meetups in the Dallas area for meetups, engage in DataTalks.Club Slack for networking and learning opportunities, announce achievements on Linkedin so potential employers/recruiters can possibly engage us
 - **Action Items**:
   - [ ] Find additional practice exams for AWS ML Engineer Associate
   - [ ] Research quality practice exams for AWS ML Specialty
