@@ -10,7 +10,9 @@ A comprehensive learning plan for mastering LLM engineering, MLOps, and AWS Mach
 | **MCP For Beginners Crash Course** | 1 day | January 31, 2026 | Quick introduction to Model Context Protocol basics | [KodeKloud Course](https://learn.kodekloud.com/user/courses/crash-course-mcp-for-beginners) | Essential for understanding MCP architecture |
 | **AI Engineer MLOps Track: Deploy Gen AI & Agentic AI at Scale** | 4 weeks | February 28, 2026 | Production deployment of generative AI and agentic AI systems | [Udemy Course](https://www.udemy.com/course/generative-and-agentic-ai-in-production/learn/lecture/52441427) | Focus on scaling and production deployment |
 | **AWS Certified Machine Learning Engineer Associate** | 4 weeks | March 31, 2026 | AWS ML engineering certification preparation | [Hands-On Course](https://www.udemy.com/course/aws-certified-machine-learning-engineer-associate-mla-c01)<br>[Practice Exams](https://www.udemy.com/course/practice-exams-aws-certified-machine-learning-engineer-associate) | Take practice exam first to guide study focus; Research additional practice exams |
-| **AWS Certified Machine Learning Specialty** | 4 weeks | April 30, 2026 | Advanced AWS ML specialty certification | [Hands-On Course](https://www.udemy.com/course/aws-machine-learning/learn/lecture/16368832) | Still need to identify quality practice exams |
+| **Certified Kubernetes Administrator (CKA)** | 3 weeks | April 15, 2026 | Kubernetes cluster administration and management | [Udemy Course](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14298430) | Essential for container orchestration in production ML systems |
+| **Certified Kubernetes Application Developer (CKAD)** | 3 weeks | April 15, 2026 | Kubernetes application development and deployment | [Udemy Course](https://www.udemy.com/course/certified-kubernetes-application-developer/) | Complements CKA; focus on app deployment patterns |
+| **AWS Certified Machine Learning Specialty** | 4 weeks | May 15, 2026 | Advanced AWS ML specialty certification | [Hands-On Course](https://www.udemy.com/course/aws-machine-learning/learn/lecture/16368832) | Still need to identify quality practice exams |
 | **LLM Zoomcamp (DataTalks.Club)** | 10 weeks | June 2026 | Real-world LLM applications and systems development | [GitHub Repository](https://github.com/DataTalksClub/llm-zoomcamp) | Monitoring [DataTalks.Club GitHub](https://github.com/DataTalksClub) for next cohort announcement |
 | **MLOps Zoomcamp (DataTalks.Club)** | 12 weeks | TBD | Production ML systems and best practices | [GitHub Repository](https://github.com/DataTalksClub/mlops-zoomcamp) | Monitoring for next cohort; covers experiment tracking, deployment, and monitoring |
 | **AWS Certified Data Engineer Associate** | TBD | TBD | AWS data engineering certification | [Hands-On Course](https://www.udemy.com/course/aws-data-engineer)<br>[Practice Exams](https://www.udemy.com/course/practice-exams-aws-certified-data-engineer-associate-r) | Complementary to ML engineering path |
@@ -27,12 +29,17 @@ A comprehensive learning plan for mastering LLM engineering, MLOps, and AWS Mach
 - AWS ML Engineer Associate preparation and certification
 - Focus on practical deployment patterns
 
-### Phase 3: AWS ML Specialization (April 2026)
+### Phase 3: Kubernetes Mastery (April 2026)
+- CKA certification - cluster administration and management
+- CKAD certification - application development and deployment
+- Critical for orchestrating ML workloads at scale
+
+### Phase 4: AWS ML Specialization (April - May 2026)
 - AWS ML Specialty certification
 - Deep dive into AWS ML services
 - Advanced ML engineering patterns
 
-### Phase 4: Community Learning & Advanced Topics (May - June 2026)
+### Phase 5: Community Learning & Advanced Topics (June 2026+)
 - Join LLM Zoomcamp cohort (DataTalks.Club)
 - Participate in community projects
 - Network with other LLM engineers
@@ -46,7 +53,8 @@ A comprehensive learning plan for mastering LLM engineering, MLOps, and AWS Mach
 ## Notes
 
 - **Practice Exam Strategy**: For AWS certifications, take practice exams first to identify knowledge gaps and guide focused study
-- **Certification Priority**: ML Engineer Associate → ML Specialty → Data Engineer Associate (as time permits)
+- **Certification Priority**: ML Engineer Associate → CKA/CKAD → ML Specialty → Data Engineer Associate (as time permits)
+- **Kubernetes Strategy**: Complete both CKA and CKAD simultaneously during April; you already hold CKA certification which will accelerate CKAD preparation
 - **Community Engagement**: Actively find and participate in local meetups in the Dallas area for meetups, engage in DataTalks.Club Slack for networking and learning opportunities, announce achievements on Linkedin so potential employers/recruiters can possibly engage us
 - **Action Items**:
   - [ ] Find additional practice exams for AWS ML Engineer Associate
@@ -54,8 +62,9 @@ A comprehensive learning plan for mastering LLM engineering, MLOps, and AWS Mach
   - [ ] Set calendar reminders for DataTalks.Club cohort registrations
   - [ ] Join DataTalks.Club Slack community
   - [ ] Engage on Linkedin
-  - [ ] Find and attent local AI related meetups
+  - [ ] Find and attend local AI related meetups
+  - [ ] Schedule CKA and CKAD exam dates for mid-April
 
 ---
 
-*Created: January 4 2026. Will be udpdated accordingly as the year progresses*
+*Created: January 4 2026. Will be updated accordingly as the year progresses*
