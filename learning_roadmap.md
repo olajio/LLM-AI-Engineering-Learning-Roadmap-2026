@@ -56,8 +56,8 @@ A comprehensive learning plan for mastering LLM engineering, MLOps, and AWS Mach
 
 - **Practice Exam Strategy**: For AWS certifications, take practice exams first to identify knowledge gaps and guide focused study
 - **Certification Priority**: ML Engineer Associate → CKA/CKAD → ML Specialty → Data Engineer Associate (as time permits)
-- **Kubernetes Strategy**: Complete both CKA and CKAD over 6 weeks (April-May); you already hold CKA certification which will accelerate CKAD preparation and allow deeper focus on application development patterns
-- **Community Engagement**: Actively find and participate in local meetups in the Dallas area for meetups, engage in DataTalks.Club Slack for networking and learning opportunities, announce achievements on Linkedin so potential employers/recruiters can possibly engage us
+- **Kubernetes Strategy**: Complete both CKA and CKAD over 6 weeks (April-May); I already hold CKA and CKAD certifications which will accelerate CKAD preparation and allow deeper focus on application development patterns
+- **Community Engagement**: Actively find and participate in local meetups in the Dallas area for meetups, engage in DataTalks.Club Slack for networking and learning opportunities, announce achievements on Linkedin
 - **Action Items**:
   - [ ] Find additional practice exams for AWS ML Engineer Associate
   - [ ] Research quality practice exams for AWS ML Specialty
