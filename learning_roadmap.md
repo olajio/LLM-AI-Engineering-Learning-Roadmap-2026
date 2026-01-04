@@ -58,4 +58,4 @@ A comprehensive learning plan for mastering LLM engineering, MLOps, and AWS Mach
 
 ---
 
-*Last Updated: January 2026*
+*Created: January 4 2026. Will be udpdated accordingly as the year progresses*
