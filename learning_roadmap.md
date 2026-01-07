@@ -63,7 +63,6 @@ A comprehensive learning plan for mastering LLM engineering, MLOps, and AWS Mach
   - [ ] Research quality practice exams for AWS ML Specialty
   - [ ] Set calendar reminders for DataTalks.Club cohort registrations
   - [ ] Join DataTalks.Club Slack community
-  - [ ] Engage on Linkedin
   - [ ] Find and attend local AI related meetups
   - [ ] Schedule CKA and CKAD exam dates for mid-May (target: May 15)
 
